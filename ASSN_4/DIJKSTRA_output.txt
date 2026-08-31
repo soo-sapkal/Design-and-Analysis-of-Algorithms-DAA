@@ -1,0 +1,23 @@
+Enter number of intersections (vertices): 6
+Enter number of roads (edges): 7
+
+Enter edges (u v w):
+u = starting node, v = ending node, w = travel time
+
+0 1 4
+0 2 2
+1 2 1
+1 3 5
+2 3 8
+2 4 10
+3 5 2
+
+Enter ambulance start location (source): 0
+Enter number of hospitals: 3
+Enter hospital nodes: 3 4 5
+
+Nearest hospital is at node 3 with travel time 8 minutes.
+
+--------------------------------
+Process exited after 46.41 seconds with return value 0
+Press any key to continue . . .
