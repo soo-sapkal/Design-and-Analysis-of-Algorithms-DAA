@@ -1,0 +1,24 @@
+Movie Name                         Rating  Genre          Year    Released       Score   Director                 Writer                   Runtime
+======================================================================================================================================================
+
+FIRST 5 MOVIES AFTER SORTING
+
+4802                               0       Documentary    0       25975          0.0     My Date with Drew        "Eversince the second g 1.9
+0                                  237000000Action Adventure Fantasy Science Fiction0       19995          0.0     Avatar                   "In the 22nd century     0.0
+1                                  300000000Adventure Fantasy Action0       285            0.0     Pirates of the Caribbean "Captain Barbossa        0.0
+2                                  245000000Action Adventure Crime0       206647         0.0     Spectre  "A cryptic message from  0.0
+3                                  250000000Action Crime Drama Thriller0       49026          0.0     The Dark Knight Rises    "Following the death of  0.0
+
+======================================================================================================================================================
+
+LAST 5 MOVIES AFTER SORTING
+
+2186                               20000000Drama          0       7979           1970.0  The Kite Runner          "After spending years in 0.0
+4107                               2000000 Drama Romance  0       250124         1970.0  The Diary of a Teenage G "Minnie Goetze is a 15-y 0.0
+4766                               0       Documentary Music0       13963          1970.0  The Last Waltz           "Martin Scorsese's rocku 0.0
+1452                               35000000Adventure Drama Thriller0       285783         1970.0  The Walk   The story of French high 0.0
+2618                               15000000Comedy Music   0       10186          1970.0  The Rocker               "Rob ""Fish"" Fishman is 0.0
+
+--------------------------------
+Process exited after 0.6312 seconds with return value 0
+Press any key to continue . . .
