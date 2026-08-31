@@ -1,0 +1,17 @@
+RELIEF SUPPLY SELECTION
+-------------------------------------------------------------
+Item                Weight    Value     Ratio     Selected
+-------------------------------------------------------------
+Emergency Radio     8         160       20.00     Full item
+First Aid Kit       12.00     210.00    17.50     Full item
+Sanitation Kit      10.00     140.00    14.00     Full item
+Canned Food         18.00     135.00    7.50      Full item
+Water Bottles       7.00      49.00     7.00      Fraction
+-------------------------------------------------------------
+Boat Capacity: 55.00 kg
+Remaining Capacity: 0.00 kg
+Maximum Utility Value: 694.00
+
+--------------------------------
+Process exited after 0.2364 seconds with return value 0
+Press any key to continue . . .
