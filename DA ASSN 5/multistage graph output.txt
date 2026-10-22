@@ -1,0 +1,27 @@
+Enter number of stages: 4
+Enter number of nodes in each stage (4 values): 1 2 2 1
+Enter number of edges: 6
+Enter each edge as: u v cost
+0 1 5
+0 2 7
+1 3 2
+1 4 4
+2 4 1
+4 5 3
+
+Best costs from Stage-0 nodes:
+Node 0: cost = 11.000000
+
+Enter a source node id (in stage 0) to print path, or -1 to skip: 0
+Path from 0 : 0 -> 2 -> 4 -> 5
+Total route cost (sum edges): 11.000000
+
+Enter number of live updates to edge costs (0 to finish): 1
+Enter edge update (u v multiplier): 2 4 2
+
+After updates, best costs from Stage-0 nodes:
+Node 0: cost = 12.000000
+
+--------------------------------
+Process exited after 94.44 seconds with return value 0
+Press any key to continue . . .
